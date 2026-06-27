@@ -242,7 +242,7 @@ Users can filter the dashboard by:
 
 ---
 
-# 📊 Business Insights
+<!-- # 📊 Business Insights
 
 ## Executive Summary
 
@@ -296,7 +296,7 @@ Based on the analysis:
 - Optimize pricing and discount strategies to improve profitability.
 - Monitor top-selling products to sustain revenue growth.
 
----
+--- -->
 
 # 📷 Dashboard Preview
 
