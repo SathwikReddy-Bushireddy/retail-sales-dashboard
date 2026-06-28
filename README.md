@@ -226,20 +226,7 @@ These filters allow users to analyze business performance from multiple perspect
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-```text
-Images/
-└── dashboard.png
-```
-
-Then include:
-
-```markdown
 ![Retail Sales Dashboard](Images/dashboard.png)
-```
 
 ---
 
